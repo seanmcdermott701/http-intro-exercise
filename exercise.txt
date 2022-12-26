@@ -1,0 +1,22 @@
+1) What is HTTP?
+    HTTP is HyperText Transfer Protocol. It is the agreed upon protocol that most data is passed as over the internet. 
+    It includes methods such as GET, POST, PUT and DELETE.
+2) What is a URL?
+    URL is a Uniform Resource Locator. It is search term that includes things such as domain, query, and parameters.
+3) What is DNS?
+    DNS is the Domain Name System. It is essentially the yellowpages of the internet, containing all domain names.
+4) What is a query string?
+    A query string are usually the search parameters added to a url by the user that specify where they are intending to go.
+5) What are two HTTP verbs and how are they different?
+    GET retireves data from a source without changing the source itself.
+    POST adds new data to an already existing source.
+    One modifies the other does not.
+6) What is an HTTP request?
+    An HTTP request is a request to a host that utilizes a URL to access particular resources.
+7) What is an HTTP response?
+    This is the answer tot he HTTP request. It follows the parameters laid out by the request and return with the requested information.
+8) What is an HTTP Request Header?
+    These are tags in a request that contain data regarding the request. Such as request method or the format of the data.
+9) What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+    First the browser recognizes this as HTTP, it then send a request to a server for "somesite.com," if that returns it will then pass 
+    the queries on to somesite, in this case the path of some/page.html
